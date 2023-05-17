@@ -71,9 +71,10 @@ Of course, you can also combine these operators to refine your search even furth
 ![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20235540.png)
 
 ## References
-|  |
+| ⬇️⬇️⬇️ |
 | :---: |
 | [![IMAGE ALT TEXT HERE](https://github.com/KahtKahyo/google-search-operators/blob/main/thumbnail.jpg)](https://www.youtube.com/watch?v=BRiNw490Eq0) |
-| also: https://ahrefs.com/blog/google-advanced-search-operators/ |
+| alt: https://www.youtube.com/watch?v=BRiNw490Eq0 |
+| You might also like: https://ahrefs.com/blog/google-advanced-search-operators/ |
 
 By taking advantage of these search operators, you'll be able to quickly and easily find the information you need, without being overwhelmed by irrelevant results. **Happy searching!**
