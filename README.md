@@ -70,8 +70,8 @@ Of course, you can also combine these operators to refine your search even furth
 #### for example:
 ![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20235540.png)
 
-## References
-| ⬇️⬇️⬇️ |
+## Source/Reference
+| (〃￣︶￣)人(￣︶￣〃) |
 | :---: |
 | [![IMAGE ALT TEXT HERE](https://github.com/KahtKahyo/google-search-operators/blob/main/thumbnail.jpg)](https://www.youtube.com/watch?v=BRiNw490Eq0) |
 | alt: https://www.youtube.com/watch?v=BRiNw490Eq0 |
