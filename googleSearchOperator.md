@@ -3,6 +3,11 @@ Do you ever feel like you're drowning in search results when using Google? With 
 
 In this guide, we'll take a closer look at the most useful search operators that you can use to optimize your Google searches.
 
+## HOW TO USE
+
+![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20234229.png)
+
+
 ## Date Operators
 If you're looking for recent information on a topic, using date operators can be extremely useful. Here are the most commonly used ones:
 
