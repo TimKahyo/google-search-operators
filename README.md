@@ -8,6 +8,7 @@ In this guide, we'll take a closer look at the most useful search operators that
 ![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20234229.png)
 
 
+
 ## Date Operators
 If you're looking for recent information on a topic, using date operators can be extremely useful. Here are the most commonly used ones:
 
@@ -16,6 +17,7 @@ If you're looking for recent information on a topic, using date operators can be
 | `after:` | Returns results after a specified date. | after:2022-01-01 |
 | `before:` | Returns results before a specified date. | before:2021-01-01 |
 | `daterange:` | Returns results within a specified date range. | daterange:20190101-20211231 |
+
 
 
 ## Boolean Operators
@@ -28,6 +30,7 @@ Boolean operators allow you to combine search terms to narrow down your results.
 | `NOT:` | Excludes results that contain a specified term. | apple NOT banana |
 
 
+
 ## Source Operators
 If you're looking for information from a particular source, you can use source operators to specify where you'd like your results to come from. Here are some of the most commonly used ones:
 
@@ -36,6 +39,7 @@ If you're looking for information from a particular source, you can use source o
 | `site:` | Limits results to a specific website. | site:wikipedia.org |
 | `related:` | Finds sites related to a specified website. | related:nytimes.com |
 | `info:` | Displays information about a specified website. | info:google.com |
+
 
 
 ## (URL/TITLE/TEXT/ANCHOR) Operators
@@ -49,6 +53,7 @@ You can also use operators to refine your search by specific parts of a web page
 | `inanchor:` | Searches for a term within the anchor text of a hyperlink. | inanchor:smoothie |
 
 
+
 ## Utility Operators
 Finally, there are some other operators that you might find useful:
 
@@ -57,6 +62,7 @@ Finally, there are some other operators that you might find useful:
 | `define:` | Displays the definition of a specified word. | define:serendipity |
 | `filetype:` | Searches for a specific file type. | filetype:pdf |
 | `weather:` | Displays the current weather conditions for a specified location. | weather:New York |
+
 
 
 ## Using and Combining Search Operators
