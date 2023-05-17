@@ -56,7 +56,7 @@ Finally, there are some other operators that you might find useful:
 
 ## Using and Combining Search Operators
 Of course, you can also combine these operators to refine your search even further. For example, you could use `site:` to limit your search to a specific website, and then use `intitle:` to search for a specific term within the titles of the pages on that website.
-##### for example:
+#### for example:
 ![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20235540.png)
 
 By taking advantage of these search operators, you'll be able to quickly and easily find the information you need, without being overwhelmed by irrelevant results. **Happy searching!**
