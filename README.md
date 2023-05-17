@@ -14,9 +14,9 @@ If you're looking for recent information on a topic, using date operators can be
 
 | Search Operators | What it does | Example |
 | :--------------: | :----------: | :-----: |
-| `after:` | Returns results after a specified date. | after:2022-01-01 |
-| `before:` | Returns results before a specified date. | before:2021-01-01 |
-| `daterange:` | Returns results within a specified date range. | daterange:20190101-20211231 |
+| `after:` | Returns results after a specified date. | after:2023-01-01 |
+| `before:` | Returns results before a specified date. | before:2022-01-01 |
+| `daterange:` | Returns results within a specified date range. | daterange:20190101-20221231 |
 
 
 
