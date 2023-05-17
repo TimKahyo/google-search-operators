@@ -7,7 +7,7 @@ In this guide, we'll take a closer look at the most useful search operators that
 
 ![](https://github.com/KahtKahyo/google-search-operators/blob/main/Screenshot%202023-05-17%20234229.png)
 
-
+---
 
 ## Date Operators
 If you're looking for recent information on a topic, using date operators can be extremely useful. Here are the most commonly used ones:
@@ -18,7 +18,7 @@ If you're looking for recent information on a topic, using date operators can be
 | `before:` | Returns results before a specified date. | before:2022-01-01 |
 | `daterange:` | Returns results within a specified date range. | daterange:20190101-20221231 |
 
-
+---
 
 ## Boolean Operators
 Boolean operators allow you to combine search terms to narrow down your results. The most commonly used Boolean operators are:
@@ -29,7 +29,7 @@ Boolean operators allow you to combine search terms to narrow down your results.
 | `OR:` | Returns results that contain either search term. | apple OR banana |
 | `NOT:` | Excludes results that contain a specified term. | apple NOT banana |
 
-
+---
 
 ## Source Operators
 If you're looking for information from a particular source, you can use source operators to specify where you'd like your results to come from. Here are some of the most commonly used ones:
@@ -40,7 +40,7 @@ If you're looking for information from a particular source, you can use source o
 | `related:` | Finds sites related to a specified website. | related:nytimes.com |
 | `info:` | Displays information about a specified website. | info:google.com |
 
-
+---
 
 ## (URL/TITLE/TEXT/ANCHOR) Operators
 You can also use operators to refine your search by specific parts of a web page. Here are some examples:
@@ -52,7 +52,7 @@ You can also use operators to refine your search by specific parts of a web page
 | `intext:` | Searches for a term within the text of a web page. | intext:fruit |
 | `inanchor:` | Searches for a term within the anchor text of a hyperlink. | inanchor:smoothie |
 
-
+---
 
 ## Utility Operators
 Finally, there are some other operators that you might find useful:
@@ -63,7 +63,7 @@ Finally, there are some other operators that you might find useful:
 | `filetype:` | Searches for a specific file type. | filetype:pdf |
 | `weather:` | Displays the current weather conditions for a specified location. | weather:New York |
 
-
+---
 
 ## Using and Combining Search Operators
 Of course, you can also combine these operators to refine your search even further. For example, you could use `site:` to limit your search to a specific website, and then use `intitle:` to search for a specific term within the titles of the pages on that website.
@@ -75,5 +75,7 @@ Of course, you can also combine these operators to refine your search even furth
 | :---: |
 | [![IMAGE ALT TEXT HERE](https://github.com/KahtKahyo/google-search-operators/blob/main/thumbnail.jpg)](https://www.youtube.com/watch?v=BRiNw490Eq0) |
 | alt: https://www.youtube.com/watch?v=BRiNw490Eq0 |
+
+---
 
 By taking advantage of these search operators, you'll be able to quickly and easily find the information you need, without being overwhelmed by irrelevant results. **Happy searching!**
