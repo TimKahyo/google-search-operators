@@ -6,9 +6,11 @@ In this guide, we'll take a closer look at the most useful search operators that
 # Date Operators
 If you're looking for recent information on a topic, using date operators can be extremely useful. Here are the most commonly used ones:
 
-after:: Returns results after a specified date. Example: after:2022-01-01
-before:: Returns results before a specified date. Example: before:2021-01-01
-daterange:: Returns results within a specified date range. Example: daterange:20190101-20211231
+| Search Operators | What it does | Example |
+| :--------------: | :----------: | :-----: |
+| `after:` | Returns results after a specified date. | after:2022-01-01 |
+| `before:` | Returns results before a specified date. | before:2021-01-01 |
+| `daterange:` | Returns results within a specified date range. | daterange:20190101-20211231 |
 
 # Boolean Operators
 Boolean operators allow you to combine search terms to narrow down your results. The most commonly used Boolean operators are:
